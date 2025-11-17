@@ -1,0 +1,1 @@
+1.mkdir examen examen/una examen/dos examen/tres
